@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Maria Clara Aguiar👋
 
 - Hoje estou cursando ADS
-- Esatudo: Python, HTML, CSS, JavaScript
+- Estudo: Python, HTML, CSS, JavaScript
 - Pronouns: ela/dela
 
 <div>
