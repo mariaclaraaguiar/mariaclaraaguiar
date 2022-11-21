@@ -27,3 +27,6 @@
     <a href="https://www.twitch.tv/https://www.twitch.tv/dom_doca_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
   
+  ![Snake animation](https://github.com/mariaclaraaguiar/mariaclaraaguiar/blob/output/github-contribution-grid-snake.svg)
+ 
+  
