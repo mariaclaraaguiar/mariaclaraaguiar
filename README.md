@@ -25,7 +25,7 @@
   <a href = "https://mail.google.com/mail/u/2/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-clara-franco-013aa622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.twitch.tv/https://www.twitch.tv/dom_doca_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
+   </div>
   
   ![Snake animation](https://github.com/mariaclaraaguiar/mariaclaraaguiar/blob/output/github-contribution-grid-snake.svg)
  
