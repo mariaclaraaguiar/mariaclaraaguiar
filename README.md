@@ -1,28 +1,10 @@
-### Olá!! Eu sou a Maria Clara Aguiar👋
+## Olá seja Bem-vindo ao meu Git_hub
+Nesse git teremos alguns portifolios, tanto sobre a minha pessoa como códigos em andamento etc.
 
-- Hoje estou cursando 2° Semestre de ADS
-- Estudo: Python, HTML, CSS, JavaScript
-- Pronouns: ela/dela
+- Sou aluna de ADS;
+- Tenho 20 anos;
+- Estou a procura de algum estagio; 
+- Estou estudadno linguagens de Front-End;
+- Pretendo fazer minha graduação em Dev Fullfull stack;
 
-<div>
-  <a href="https://github.com/mariaclaraaguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaclaraaguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraaguiar&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="mariaclaraaguiar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mariaclaraaguiar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mariaclaraaguiar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mariaclaraaguiar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mariaclaraaguiar-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
-  ##
-  
-  <div> 
-  <a href="https://www.youtube.com/channel/UCqwHZ9GcV5tWg0aUnwO0I-A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "https://mail.google.com/mail/u/2/#inbox"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-clara-franco-013aa622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/https://www.twitch.tv/dom_doca_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   </div>
+(Fazer um codigo para contabilizar meus conhecimentos)
