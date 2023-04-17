@@ -6,6 +6,7 @@ Caso tenha algo a acrecentar, pode chamar em alguma das redes aqui em baixo ↓ 
   😊❤️
   
   <div style="display: inline_block"><br>
+  <h1>Linguagens:</h1>
   <img align="center" alt="Maria Clara-Js" height="30" width="40"       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria Clara-HTML" height="30" width="40"          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria Clara-CSS" height="30" width="40"
