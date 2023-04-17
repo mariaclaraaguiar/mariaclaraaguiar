@@ -12,7 +12,7 @@ Caso tenha algo a acrecentar, pode chamar em alguma das redes aqui em baixo ↓ 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
       
-      
+  <br>
  
  <div>
   <a href="https://www.instagram.com/mariaclara_2099/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
