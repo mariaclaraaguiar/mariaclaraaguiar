@@ -4,7 +4,8 @@ Aqui vamos ter alguns formulários, log/cadastro, not ou blog, Dash Bord, to do 
 Caso tenha algo a acrecentar, pode chamar em alguma das redes aqui em baixo ↓ aceito todo e qualquer tipo de ajuda. 
   😊❤️
   
-  <div style="display: inline_block">
+  <body>
+    <div style="display: inline_block">
         <br>
         <img align="center" alt="Maria Clara-Js" height="30" width="40"
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,3 +33,4 @@ Caso tenha algo a acrecentar, pode chamar em alguma das redes aqui em baixo ↓ 
                 target="_blank"></a>
 
     </div>
+</body>
