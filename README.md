@@ -20,14 +20,15 @@
 <div>
   <a href="https://github.com/mariaclaraaguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaclaraaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraaguiar&layout=compact&langs_count=7&theme=dark"/>
+ 
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraaguiar&layout=compact&langs_count=7&theme=dark"/>-->
 </div>
 
 <hr>
 
  ### Tecnologias que tive contato
  
-<div style="display: inline_block"><br>
+<!--<div style="display: inline_block"><br>
     <img align="center" alt="mariaclaraaguiar-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="mariaclaraaguiar-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mariaclaraaguiar-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -37,7 +38,7 @@
   <img align="center" alt="mariaclaraaguiar-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="mariaclaraaguiar-NextJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="mariaclaraaguiar-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+</div>-->
   
  <!-- <hr>
   
