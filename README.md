@@ -15,7 +15,7 @@
   
 <hr>
 
-### Como está atualmente
+### Como está agora
 
 <div>
   <a href="https://github.com/mariaclaraaguiar">
