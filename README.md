@@ -43,7 +43,7 @@
   
   ### Commits
   
-  ![Snake animation](https://github.com/MariaClaraAguiarFranco/MariaClaraAguiarFranco/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/mariaclaraaguiar/mariaclaraaguiar/blob/output/github-contribution-grid-snake.svg)
   
   <hr>
 
