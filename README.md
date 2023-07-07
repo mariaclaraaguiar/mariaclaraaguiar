@@ -42,9 +42,9 @@
   
 <hr>
   
-  <!--### Commits
+  ### Commits
   
-  ![Snake animation](https://github.com/mariaclaraaguiar/mariaclaraaguiar/blob/output/github-contribution-grid-snake.svg)-->
+  ![Snake animation](https://github.com/mariaclaraaguiar/mariaclaraaguiar/blob/output/github-contribution-grid-snake.svg)
   
   <hr>
 
@@ -56,5 +56,4 @@
 -->
     <!--<a href = "https://www.instagram.com/pedro_soares1261/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-AE384C?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
   <a href="https://www.linkedin.com/in/maria-clara-franco-013aa622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
   </div>
