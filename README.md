@@ -29,7 +29,7 @@
 </div>
 <hr>
 
-# Como está agora
+<!--# Como está agora
 
 <!--<div style="display: inline_block">
 <!--   <a herf="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default"/>
