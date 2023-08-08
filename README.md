@@ -4,7 +4,7 @@
 
 <hr>
 
-### Sobre mim
+ ## Sobre mim
 - Tudo que aprendi e aprendo é com cursos online,
 - Começei com o Front-End;
   - Linguagens: HTML, CSS, JavaScript.
