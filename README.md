@@ -12,7 +12,7 @@
 <hr>
 
 # Minhas Habilidades
-<h1> Aplicações e dados </h1>
+<h3> Aplicações e dados </h3>
 <div>
 <img alingn="center" alt="mariaclaraaguiar-python" height="50" width="50"
 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
