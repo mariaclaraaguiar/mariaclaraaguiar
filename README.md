@@ -4,7 +4,7 @@
 
 <hr>
 
- ## Sobre mim
+ # Sobre mim
 * Estudante de Analise Desenvolvimeto De Sistemas no UniCEUB.
 * Trabalho com FreeLancer na ThreeLancers.
 * Aorendendo mais sobre PYTHON.
