@@ -39,8 +39,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraaguiar&layout=compact&langs_count=7&theme=dark"/>
 </div>-->
 
-<hr>
-
  ### Tecnologias que tive contato
  
 <div style="display: inline_block"><br>
@@ -63,12 +61,16 @@
   
   <hr>
 
- ### Redes Sociais
+ ### Redes/Contato
  
   <div>
-    <!--
-  <a href = "https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/-Gmail-crimson?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
--->
+<!--   Gmail -->
+   <a href = "https://mail.google.com/mail/u/0/#inbox">
+   <img src="https://img.shields.io/badge/-Gmail-crimson?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<!-- Linkedin -->
+   <a href="https://www.linkedin.com/in/maria-clara-franco-013aa622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!-- Telegram -->
+   <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" 
+    target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <!--<a href = "https://www.instagram.com/pedro_soares1261/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-AE384C?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
-  <a href="https://www.linkedin.com/in/maria-clara-franco-013aa622b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
