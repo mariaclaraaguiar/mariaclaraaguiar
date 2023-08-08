@@ -18,6 +18,7 @@
 ### Como está agora
 
 <div>
+  <a herf="https://github-readme-stats.vercel.app/api?username=iuricode&theme=default/>
   <a href="https://github.com/mariaclaraaguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaclaraaguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
