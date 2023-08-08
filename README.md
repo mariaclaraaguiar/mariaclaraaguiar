@@ -5,15 +5,13 @@
 <hr>
 
  ## Sobre mim
-- Tudo que aprendi e aprendo é com cursos online,
-- Começei com o Front-End;
-  - Linguagens: HTML, CSS, JavaScript.
-  - Framework:
-- Aprendendo Back-End;
-  - Linguagens: Python
-  - Framework:
-  
+* Estudante de Analise Desenvolvimeto De Sistemas no UniCEUB.
+* Trabalho com FreeLancer na ThreeLancers.
+* Aorendendo mais sobre PYTHON.
+
 <hr>
+
+### Minhas Habilidades
 
 ### Como está agora
 
