@@ -7,25 +7,38 @@
  # Sobre mim
 * Estudante de Analise Desenvolvimeto De Sistemas no UniCEUB.
 * Trabalho com FreeLancer na ThreeLancers.
-* Aorendendo mais sobre PYTHON.
+* Aprendendo mais sobre PYTHON.
 
 <hr>
 
 # Minhas Habilidades
 <div>
-<img alingn="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img alingn="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alingn="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alingn="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img alingn="center" src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img alingn="center" src=" https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alingn="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img alingn="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img alingn="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alingn="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alingn="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img alingn="center" alt="mariaclaraaguiar-Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-<img alingn="center" alt="mariaclaraaguiar-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+<!--  Python -->
+ <img alingn="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+<!--  Html -->
+ <img alingn="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<!--  Css -->
+ <img alingn="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<!--  Javascript -->
+ <img alingn="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<!--  Php -->
+ <img alingn="center" src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<!--  React -->
+ <img alingn="center" src=" https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<!--  Angular -->
+ <img alingn="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<!--  Django -->
+ <img alingn="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<!--  Flask -->
+ <img alingn="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<!--  Mongodb -->
+ <img alingn="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<!--  Excel -->
+ <img alingn="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<!--  Linux -->
+ <img alingn="center" alt="mariaclaraaguiar-Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
+<!--  Git -->
+ <img alingn="center" alt="mariaclaraaguiar-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 <hr>
 
@@ -39,18 +52,17 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraaguiar&layout=compact&langs_count=7&theme=dark"/>
 </div>-->
 
- ### Tecnologias que tive contato
+<p>Tecnologias em Estudo</p>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="mariaclaraaguiar-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mariaclaraaguiar-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mariaclaraaguiar-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="mariaclaraaguiar-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg">
-  <img align="center" alt="mariaclaraaguiar-MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<!--NextJS<img align="center" alt="mariaclaraaguiar-NextJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> -->
-  <img align="center" alt="mariaclaraaguiar-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="mariaclaraaguiar-Git" height="50" width="50"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <!--CSharp<img align="center" alt="mariaclaraaguiar-CSharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+<!--   Python -->
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg">
+<!--  Django  -->
+<!--  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg"> -->
+<!-- <!--  Flask  -->
+<!--  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg"> --> 
+ <!--NextJS-->
+<!--  <img align="center" alt="mariaclaraaguiar-NextJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  -->
 </div>
   
 <hr>
