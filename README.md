@@ -52,7 +52,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraaguiar&layout=compact&langs_count=7&theme=dark"/>
 </div>-->
 
-<p>Tecnologias em Estudo</p>
+#Tecnologias em Estudo
  
 <div style="display: inline_block"><br>
 <!--   Python -->
