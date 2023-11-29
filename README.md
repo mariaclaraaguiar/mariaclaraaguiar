@@ -12,34 +12,30 @@
 <hr>
 
 # Minhas Habilidades
-<div>
-<!--  Python -->
- <img alingn="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+* Front-End : 
 <!--  Html -->
  <img alingn="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 <!--  Css -->
  <img alingn="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <!--  Javascript -->
  <img alingn="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<!--  Php -->
-<!--  <img alingn="center" src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> -->
-<!--  React -->
-<!--  <img alingn="center" src=" https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
-<!--  Angular -->
-<!--  <img alingn="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/> -->
-<!--  Django -->
-<!--  <img alingn="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<!--  Flask -->
-<!--  <img alingn="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
-<!--  Mongodb -->
-<!--  <img alingn="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> -->
+
+ * Back-End :
+ <!--  Python -->
+ <img alingn="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+ <br>
+ * FrameWork : 
+ <!--  Flask -->
+ <img alingn="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+ <br>
+ * Microsoft : 
 <!--  Excel -->
  <img alingn="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+ <br>
 <!--  Linux -->
  <img alingn="center" alt="mariaclaraaguiar-Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 <!--  Git -->
 <!--  <img alingn="center" alt="mariaclaraaguiar-Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/> -->
-</div>
 <hr>
 
 <!--# Como está agora
@@ -52,16 +48,18 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclaraaguiar&layout=compact&langs_count=7&theme=dark"/>
 </div>-->
  
- # Tecnologias em Estudo
+ ### Tecnologias em Estudo
  
 <div style="display: inline_block"><br>
-<!--   Python -->
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg">
+<!-- FastAPI -->
+  <img align="center" height="50" width="50" src="https://img.shields.io/badge/FastAPI-14354C?style=for-the-badge&logo=fastapi&logoColor=white">
+ <!--   Python -->
+<!-- <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg">
 <!--  Django  -->
 <!--  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg"> -->
-<!-- <!--  Flask  -->
+<!--  Flask  -->
 <!--  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg"> --> 
- <!--NextJS-->
+<!--NextJS-->
 <!--  <img align="center" alt="mariaclaraaguiar-NextJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">  -->
 </div>
   
