@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=mariaclaraaguiar&label=Profile%20views&color=0e75b6&style=flat" alt="mariaclaraaguiar"/> 
 </p>
 
-<p align="left"> 
-  <a href=" https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mariaclaraaguiar" alt="mariaclaraaguiar" /> 
-  </a> 
-</p>
-
 - 🔭 Atualmente estou trabalhando no **ThreeLancers**
 
 - 🌱 Atualmente estou aprendendo **Analise Desenvolvimento de Sistemas**
