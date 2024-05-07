@@ -15,8 +15,8 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://dev .to/mariaclaraaguiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /devto.svg" alt="mariaclaraaguiar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maria-clara-aguiar-franco-013aa622b /" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked- in-alt.svg" alt="maria-clara-aguiar-franco-013aa622b/" height="30" width="40" /></a>
+<a href="https://dev.to/mariaclaraaguiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /devto.svg" alt="mariaclaraaguiar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maria-clara-aguiar-franco-013aa622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked- in-alt.svg" alt="maria-clara-aguiar-franco-013aa622b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e Ferramentas:</h3>
