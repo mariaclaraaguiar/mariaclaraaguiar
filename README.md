@@ -1,69 +1,29 @@
-## Olá, eu sou a Maria Clara 🖐
+<h1 align="center">Olá 👋, sou Maria Clara Aguiar Franco</h1>
+<h3 align="center">Uma desenvolvedora frontend apaixonada da Índia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MariaClaraAguiarFranco&color=green" alt="Profile views" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mariaclaraaguiar&label=Profile%20views&color=0e75b6&style=flat" alt="mariaclaraaguiar" /> </p>
 
-<hr>
+<p align="left"> <a href=" https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaclaraaguiar" alt="mariaclaraaguiar" /> </a> </p>
 
- # Sobre mim
-* Estudante de Analise Desenvolvimeto De Sistemas no UniCEUB.
-* Trabalho com FreeLancer na ThreeLancers.
-* Aprendendo mais sobre PYTHON.
+- 🔭 Atualmente estou trabalhando no **ThreeLancers**
 
-<hr>
+- 🌱 Atualmente estou aprendendo **Analise Desenvolvimento de Sistemas**
 
-# Minhas Habilidades
-* Front-End : 
-<!--  Html -->
- <img alingn="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<!--  Css -->
- <img alingn="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<!--  Javascript -->
- <img alingn="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+- 👯 Quero colaborar no **DIY Royalt* *
 
- * Back-End :
- <!--  Python -->
- <img alingn="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
- 
- * FrameWork : 
- <!--  Flask -->
- <img alingn="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
- 
- * Microsoft : 
-<!--  Excel -->
- <img alingn="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
- 
-<!--  Linux -->
- <img alingn="center" alt="mariaclaraaguiar-Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
-<hr>
- 
- ### Tecnologias em Estudo
- 
-<div style="display: inline_block"><br>
-<!-- FastAPI -->
- <img align="center" height="50" width="50" src="https://img.shields.io/badge/FastAPI-14354C?style=for-the-badge&logo=fastapi&logoColor=white">
-<!--   Python -->
- <img align="center" height="50" width="50" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<!--  Django  -->
-<!--  Flask  -->
-<!--NextJS-->
-</div>
-<hr>
-<hr>
+- 📫 Como entrar em contato comigo **mariaclaraaguiarfranco@gmail.com**
 
-### Redes/Contato
- 
-  <div>
-<!-- Gmail -->
-   <a href = "https://img.shields.io/badge/Gmail-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white">
-   <img src="https://img.shields.io/badge/-Gmail-crimson?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!-- Linkedin -->
-   <a href="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!-- Telegram -->
-   <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"target="_blank">
-   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<!-- whatsapp -->
-   <a href="https://img.shields.io/badge/Whatsapp-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
-   <img src="https://img.shields.io/badge/Whathsapp-2CA5E0?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<!-- Instagram -->
-  </div>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://dev .to/mariaclaraaguiar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /devto.svg" alt="mariaclaraaguiar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maria-clara-aguiar-franco-013aa622b /" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked- in-alt.svg" alt="maria-clara-aguiar-franco-013aa622b/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Idiomas e Ferramentas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon /master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https:/ /flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" largura ="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https:/ /www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https:/ /www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original- wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=" 40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https:/ /www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a > <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https:// github-readme-stats.vercel.app/api/top-langs?username=mariaclaraaguiar&show_icons=true&locale=en&layout=compact" alt="mariaclaraaguiar" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariaclaraaguiar&show_icons=true&locale=en" alt="mariaclaraaguiar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mariaclaraaguiar&" alt="mariaclaraaguiar" /></p>
