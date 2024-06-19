@@ -1,6 +1,3 @@
-Aqui está o seu código corrigido:
-
-```html
 <h1 align="center">Olá 👋, sou Maria Clara Aguiar Franco</h1>
 <h3 align="center">Sou Dev. FullStack de Brasília</h3>
 
