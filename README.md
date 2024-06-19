@@ -9,9 +9,11 @@
 
 - 🌱 Atualmente estou aprendendo **Análise e Desenvolvimento de Sistemas**
 
-- 👯 Quero colaborar no **DIY Royalt**
+- 👯 Quero colaborar para com o **crescimento e conhecimento da Tecnologia**
 
-- 📫 Como entrar em contato comigo: **mariaclaraaguiarfranco@gmail.com**
+- 📫 Como entrar em contato comigo: 
+  E-mail :**mariaclaraaguiarfranco@gmail.com**
+  whatsapp :**(61)9 8666-3112**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
